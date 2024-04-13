@@ -1,0 +1,27 @@
+body{
+    background-color:rgb(178, 254, 246);
+    }
+    .container
+    {
+    height:300px;
+    width:1280px;
+    border-radius:10px;
+    background-color:rgb(27, 218, 163);
+    margin:auto;
+    }
+    .one
+    {
+    display:inline-block;
+    }
+    .border{
+    width:10px;
+    height:10px;
+    border-radius:50px;
+    background-color:rgb(27, 218, 163);
+    margin:0px;
+    }
+    .border-design
+    {
+    display:flex;
+    flex-direction:row;
+    }
